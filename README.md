@@ -45,4 +45,4 @@ Before you begin, ensure you have met the following requirements:
 1. Clone this repository to your local machine:
 
    ```shell
-   git clone https://github.com/NadunSanjeevana/spring-boot-postgresql-docker.git
+   git clone https://github.com/NadunSanjeevana/Spring-boot-CRUD-application.git
