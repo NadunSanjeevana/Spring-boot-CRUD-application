@@ -24,14 +24,14 @@ Welcome to the Spring Boot Backend project with PostgreSQL and Docker! This back
 2. **Database Interaction:** Connect to a PostgreSQL database for data storage.
 3. **Docker Containerization:** Package your application into a Docker container for easy deployment and scaling.
 4. **Security:** Implement security measures to protect your APIs.
-5. **[Other Features]:** Mention any additional features or functionalities specific to your project.
+
 
 ## Technologies Used
 
 - **Spring Boot:** The primary framework for building the backend.
 - **PostgreSQL:** The relational database management system used for data storage.
 - **Docker:** Containerization technology for packaging and deploying your application.
-- **[Other Technologies]:** List any other technologies or libraries used in your project.
+
 
 ## Prerequisites
 
